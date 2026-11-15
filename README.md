@@ -31,15 +31,16 @@ An admin menu mod for **R.E.P.O.** (BepInEx plugin).
 
 ## Admin menu (host only)
 
-- **Go to a Map**: send the lobby to any shop, game map, or the King of the Losers arena.
+- **Go to a Map**: send the lobby to any shop, game map, or the King of the Losers arena. In the lobby (before Start), pick one to make the run **start** there.
 - **Items**: search and spawn any item, Spawn Scout, Spawn Gun, Despawn All Items.
 - **Players / Monsters**:
-  - Players: Kill, Revive, Heal, Blind, TRAUMA, SEND TO HELL, Kill Everyone, Blind Everyone.
-  - Monsters: spawn any monster; Kill, Heal, Stun, TRAUMA, SEND TO HELL; Kill All / Stun All. Spawned monsters stay put and work in the shop.
+  - Players: Kill, Revive, Heal, Blind, TRAUMA, PINBALL, SEND TO HELL, Kill Everyone, Blind Everyone.
+  - Monsters: spawn any monster; Kill, Heal, Stun, TRAUMA, PINBALL, SEND TO HELL; Kill All / Stun All. Spawned monsters stay put and work in the shop.
+  - PINBALL: they bounce off every wall like a rubber duck; each hit explodes for 10 damage, until they die.
 - **Third Person** on/off.
 - **Bring Players**: pick players and they stack frozen at your crosshair; press E to place them one at a time.
 - **NUKE**: warning, red flashes, then 200 grenades with random fuses across the map. Survive the blasts and you live.
 
-Also included: super guns (5x bullets, 20,000 damage, no cooldown), only the host can make the truck leave, inventory works in the shop, and lobbies hold up to 20 players.
+Also included: super guns (5x bullets, 20,000 damage, no cooldown), only the host can make the truck leave, inventory works in the shop, lobbies hold up to 20 players, flushing a toilet makes it explode 2.5 s later, dead players' heads under a shop extraction point revive instantly, and anyone who grabs the host gets launched into a wall and blows up.
 
 Players without the mod still see almost everything the host does to them. You need the mod to open the menu, fly or use god mode yourself.
