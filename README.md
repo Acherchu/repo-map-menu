@@ -26,9 +26,13 @@ An admin menu mod for **R.E.P.O.** (BepInEx plugin).
 
 - **Go to a Map**: send the lobby to any shop, game map, or the King of the Losers arena.
 - **Items**: search and spawn any item, Spawn Scout, Spawn Gun, Despawn All Items.
-- **Players**: Kill, Revive, Heal, Blind, TRAUMA, SEND TO HELL, Kill Everyone, Blind Everyone.
+- **Players / Monsters**:
+  - Players: Kill, Revive, Heal, Blind, TRAUMA, SEND TO HELL, Kill Everyone, Blind Everyone.
+  - Monsters: spawn any monster in front of you; Kill, Heal, Stun, TRAUMA, SEND TO HELL; Kill All / Stun All. Spawned monsters stay put and work in the shop (no roof spawns).
 - **Third Person** on/off.
-- **NUKE**: warning, red flashes, 200 grenades across the map, then everyone else dies.
+- **NUKE**: warning, red flashes, then 200 grenades with random fuses across the map. Survive the blasts and you live.
+
+**Updating?** In Thunderstore, remove the old Map Menu first, then import the new zip.
 
 Also: super guns (5x bullets, 20,000 damage, no cooldown) and only the host can make the truck leave.
 
