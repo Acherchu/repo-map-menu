@@ -38,6 +38,7 @@ An admin menu mod for **R.E.P.O.** (BepInEx plugin).
 - **Items**: search and spawn any item, Spawn Scout, Spawn Gun, Despawn All Items.
 - **Players / Monsters**:
   - Players: Kill, Revive, Heal, Blind, TRAUMA, PINBALL, SEND TO HELL, Kill Everyone, Blind Everyone.
+  - Torture extras: **FLASHBANG** (25 stun grenades all round them) and **ORBITAL STRIKE** (one grenade splits into 81 that land in a huge target pattern and all blow at once).
   - Monsters: spawn any monster; Kill, Heal, Stun, TRAUMA, PINBALL, SEND TO HELL; Kill All / Stun All. Spawned monsters stay put and work in the shop.
   - PINBALL: they bounce off every wall like a rubber duck; each hit explodes for 10 damage, until they die.
 - **Third Person** on/off.
@@ -53,6 +54,5 @@ The GAMBLE's 1 minute of maxed stats and the upgrade page's **-1** set stats to 
 - A **SCOUT BATTLES** intro the first time the main menu loads: a black hole forms, the title flies together, then it explodes into the menu.
 - A new **main menu**: a foggy forest with clouds, an old cabin and a gravel path, and a yellow duck with a crown sitting on a branch swinging its legs.
 - The **lobby** shows the inside of a shop with a Scout parked in it.
-- A soft pink/purple border round the screen in the menus (not during a level).
 
 Players without the mod still see almost everything the host does to them. You need the mod to open the menu, fly or use god mode yourself.
